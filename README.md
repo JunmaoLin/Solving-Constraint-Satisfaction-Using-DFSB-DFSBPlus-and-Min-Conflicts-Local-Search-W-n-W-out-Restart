@@ -1,10 +1,12 @@
 Python Version Python 3.7+
 
 Files needed to run my code:
+
     - dfsb.py
     - minconflicts.py
 
-For data confirmation, you can use the following folder/files to crosscheck with my PDF report:
+For data confirmation, you can use the following folder/files to cross-check with my PDF report:
+
     - N20M100K4QuestionsAndOutput
         - The folder contains all 20 problem of N=20 M=100 K=4 and the output of DFS-B++ and MCLS-R
     - N50M625K4QuestionsAndOutput
