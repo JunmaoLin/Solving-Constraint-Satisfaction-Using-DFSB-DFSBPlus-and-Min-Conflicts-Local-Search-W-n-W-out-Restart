@@ -19,6 +19,7 @@ For data confirmation, you can use the following folder/files to cross-check wit
         - The folder contains all 20 problem of N=400 M=40000 K=4 and the output of DFS-B++ and MCLS-R
 
 How to run my code:
+
     - python dfsb.py <INPUT FILE> <OUTPUT FILE> <MODE FLAG>
         - <INPUT FILE>: the input filename
         - <OUTPUT FILE>: the output filename
@@ -31,10 +32,10 @@ How to run my code:
         - EX: python minconflicts.py minconflict_easy solution.txt 1
 
 References:
+
     - https://en.wikipedia.org/wiki/Min-conflicts_algorithm from HW PDF
     - https://pages.cs.wisc.edu/~bgibson/cs540/handouts/csp.pdf from HW PDF
     - “constraint-satisfaction-part-I” Lecture Slides
     - “constraint-satisfaction-part-IIa-b” Lecture Slides
-    - “Yes, you only need to run the improved versions, DFS-B++ and MCLS-R. The plain versions were mainly for understanding. Your analysis and comparison should also focus on the improved algorithms” Piazza post
     - https://www.w3schools.com/python/ Python documentations
     
